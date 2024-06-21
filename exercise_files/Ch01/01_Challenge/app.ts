@@ -1,7 +1,3 @@
-/**
-*
-@params {Date} Date
-*/
 
 const formattedDate = formatDate(new Date())
 
