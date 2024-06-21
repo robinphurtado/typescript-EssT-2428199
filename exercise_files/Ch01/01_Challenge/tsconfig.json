@@ -1,1 +1,9 @@
+{
+  "compilerOptions" : {
+    "allowJs" : true,
+    "checkJs" : true,
+    "target" : "esnext",
+    "outDir" : "build"
+  }
 
+"include" : [ "01_Challenge/**/*" ]
