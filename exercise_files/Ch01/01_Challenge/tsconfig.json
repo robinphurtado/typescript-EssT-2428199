@@ -2,8 +2,8 @@
   "compilerOptions" : {
     "allowJs" : true,
     "checkJs" : true,
-    "target" : "esnext",
+    "target" : "ES6",
     "outDir" : "build"
   }
 
-"include" : [ "01_Challenge/**/*" ]
+"include" : [ "**.ts" ]
